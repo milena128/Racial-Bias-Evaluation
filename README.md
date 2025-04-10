@@ -15,5 +15,12 @@ The study utilizes two distinct datasets:
 
 - **BBQ Dataset**: [BBQ Dataset on Hugging Face](https://huggingface.co/datasets/heegyu/bbq/viewer/Race_ethnicity)  
 
-- **BiasLens Dataset**: [BiasLens - Race Questions](https://github.com/LLMBias/BiasLens/blob/main/questions/role/race_questions.csv)  
+- **BiasLens Dataset**: [BiasLens - Race Questions](https://github.com/LLMBias/BiasLens/blob/main/questions/role/race_questions.csv)
+
+## Terminology Clarification
+
+In this repository, you encounter the term **"rule-based"** in the code and results. However, please note that this term has been updated to **"instruction-based"** in the accompanying thesis. The usage of "rule-based" in the code and results is consistent with an earlier version of the work and refers to the same method now described as "instruction-based" in the thesis.
+The core functionality and methodology remain unchanged.
+
+
 
